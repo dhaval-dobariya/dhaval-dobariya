@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dhaval Dobariya (@dhaval-dobariya)
 - 👀 I’m interested in developing iOS apps using latest Swift or legendary Objective-C. I have also worked in old apps which are initially developed in Objective-C and latter on features are addded using latest Swift. So I am confirtable with both the languages.
-- 🌱 I’m currently learning SwiftUI.
+- 🌱 Developing apps using SwiftUI also.
 - 📫 How to reach me ...
   > I am checking my emails regualorly. So you can email me dobariyadhaval2020@gmail.com
 - 🧑🏻‍💻 You can check my profiles on ...
